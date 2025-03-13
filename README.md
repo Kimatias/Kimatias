@@ -10,7 +10,8 @@
 
 📫 How to reach me: ing.ksanchezp@gmail.com
 
-![Website](https://img.shields.io/badge/karensanchezdancer.com-up-violet)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.karensanchezdancer.com%2F&up_color=violet)
+
 
 <!---
 Kimatias/Kimatias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
