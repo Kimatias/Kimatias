@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Kimatias
+# Hi there 
+
+- 👋  I’m @Kimatias
+- 📐 Civil engineer | Web development student
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning javascript, HTML and CCS.
-- 💞️ I’m looking to collaborate on creating web sites
-- 📫 How to reach me: ing.ksanchezp@gmail.com
+- 💃 Dancer at heart
+
+## Contact 
+
+📫 How to reach me: ing.ksanchezp@gmail.com
+
+![website] (https://img.shields.io/badge/https://www.karensanchezdancer.com-blue)
+
 
 <!---
 Kimatias/Kimatias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
