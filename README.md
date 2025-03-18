@@ -11,13 +11,10 @@
 📫 How to reach me: ing.ksanchezp@gmail.com
 
 ## :zap: Recent Activity
-<!--START_SECTION: activity-->
 
-<!--END_SECTION: activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY: last_update-->
-
-<!--RECENT_ACTIVITY: last_update_end-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!---
 Kimatias/Kimatias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
