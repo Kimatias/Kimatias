@@ -13,14 +13,12 @@
 ## :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Kimatias/platzi-travel](https://github.com/Kimatias/platzi-travel)<br>
-2. ⬆️ Pushed undefined commit(s) to [Kimatias/Mokepon](https://github.com/Kimatias/Mokepon)<br>
-3. ⬆️ Pushed undefined commit(s) to [Kimatias/Mokepon](https://github.com/Kimatias/Mokepon)<br>
-4. ⬆️ Pushed undefined commit(s) to [Kimatias/Mokepon](https://github.com/Kimatias/Mokepon)<br>
+1. ⬆️ Pushed undefined commit(s) to [Kimatias/Kimatias.github.io](https://github.com/Kimatias/Kimatias.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [Kimatias/platzi-travel](https://github.com/Kimatias/platzi-travel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 27th, 2026, 5:54:45 AM
+Last Updated: Saturday, November 28th, 2026, 5:35:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!---
